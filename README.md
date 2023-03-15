@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @angelajyzhang
 - 👀 I’m interested in music prodution, dance, and cooking!
-- 🌱 I’m currently learning Python and SQL.
+- 🌱 I’m currently learning Python, Java, and Figma.
 - 💞️ I’m looking to collaborate on anything.
 - 📫 How to reach me - email: zhangjy.angela@gmail.com
 
