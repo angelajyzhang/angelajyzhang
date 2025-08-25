@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @angelajyzhang
-- 👀 I’m interested in music prodution, photography, and dance!
-- 🌱 I’m currently learning CSS, ReactJS, and JavaScript.
-- 💞️ I’m looking to collaborate on anything.
+- 👀 I’m interested in photography, cook, and designing applications!
+- 🌱 My stack: React, TypeScript, Tailwind, Python
 - 📫 How to reach me - email: zhangjy.angela@gmail.com
 
 <!---
