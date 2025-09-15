@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @angelajyzhang
-- 👀 I’m interested in photography, cook, and designing applications!
+- 👀 I’m interested in photography, cooking, and designing applications!
 - 🌱 My stack: React, TypeScript, Tailwind, Python
 - 📫 How to reach me - email: zhangjy.angela@gmail.com
 
